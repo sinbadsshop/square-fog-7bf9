@@ -1,6 +1,6 @@
 ---
-title: "Second post"
-description: "Lorem ipsum dolor sit amet"
+title: "Crankshaft 611 031 0201/0501 for Mercedes-Benz OM 611 DE22 Sprinter/Vito"
+description: "Crankshaft 611 031 0201/0501 for Mercedes-Benz OM 611 DE22 Sprinter/Vito"
 pubDate: "Jul 15 2022"
 heroImage: "/blog-placeholder-4.jpg"
 ---
